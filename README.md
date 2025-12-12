@@ -1,22 +1,32 @@
 TradeHive, Inc.
-
 Connecting Importers and Exporters. Seamlessly. Globally. Intelligently.
+🌍 About TradeHive
 
-TradeHive, Inc. is a technology company building digital infrastructure to simplify and modernize global trade. Our platform connects verified importers and exporters, enabling efficient discovery, communication, and transaction workflows across borders.
+TradeHive, Inc. is a technology company building digital infrastructure to simplify and modernize global trade.
 
-We focus on reducing friction in international trade by combining data-driven matching, compliance-aware workflows, and secure communication tools into a single, unified platform.
+Our platform connects verified importers and exporters, enabling efficient discovery, communication, and transaction workflows across borders.
 
-🌍 What We Do
+We focus on reducing friction in international trade by combining:
+
+Data-driven matching
+
+Compliance-aware workflows
+
+Secure communication tools
+
+All within a single, unified platform.
+
+💼 What We Do
 
 TradeHive provides a digital marketplace and tooling layer for global trade participants, including:
 
-Importer and exporter discovery and matching
+Importer and exporter discovery & matching
 
 Supplier and buyer profiling
 
 Trade communication and coordination tools
 
-Compliance-conscious onboarding and verification
+Compliance-conscious onboarding & verification
 
 Scalable infrastructure for cross-border commerce
 
@@ -25,33 +35,36 @@ Our goal is to make international trade more transparent, accessible, and effici
 🏢 Company Information
 
 Legal Name: TradeHive, Inc.
-Business Type: Technology / B2B SaaS / Global Trade Platform
+
+Business Type: Technology • B2B SaaS • Global Trade Platform
+
 Founded: 2025
-Status: Privately held
 
-📬 Contact Information
+Status: Privately Held
 
-For general inquiries, partnerships, or support, please reach out to us:
+📬 Contact Us
 
-Email: support@tradehive.io
+For inquiries, partnerships, or support, reach us at:
 
-Business Inquiries: partnerships@tradehive.io
+Support: support@tradehive.io
+
+Business & Partnerships: partnerships@tradehive.io
 
 Legal & Compliance: legal@tradehive.io
 
-(If you prefer a single inbox for now, you can consolidate these to one address and split later.)
-
 🌐 Website
 
-This repository also serves as the public-facing entry point for TradeHive.
+This repository also serves as the public entry point for TradeHive.
 
-Website: https://tradehive.io
+Official Website: https://tradehive.io
 
-(or GitHub Pages URL if used temporarily)
+(GitHub Pages may be used temporarily during early stages.)
 
 🔐 Privacy & Security
 
-TradeHive is designed with security and privacy as first-class principles. We aim to follow industry best practices for:
+TradeHive is built with security and privacy as first-class principles.
+
+We aim to follow industry best practices for:
 
 Data protection
 
@@ -59,16 +72,18 @@ Secure authentication
 
 Responsible data handling
 
-Regulatory awareness across jurisdictions
+Cross-border regulatory awareness
 
-A detailed Privacy Policy and Terms of Service will be published on our website.
+📄 A detailed Privacy Policy and Terms of Service will be published on our website.
 
-📄 Legal
+📄 Legal Notice
 
 © 2025 TradeHive, Inc. All rights reserved.
 
-TradeHive and related logos, product names, and designs are trademarks or registered trademarks of TradeHive, Inc.
+TradeHive™, related logos, product names, and platform designs are trademarks or registered trademarks of TradeHive, Inc.
 
-🚀 Status
+🚀 Platform Status
 
-TradeHive is currently under active development. Features, availability, and supported regions may evolve as the platform grows.
+TradeHive is currently under active development.
+
+Features, availability, and supported regions may evolve as the platform grows.
