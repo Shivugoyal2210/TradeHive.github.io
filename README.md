@@ -46,19 +46,14 @@ Status: Privately Held
 
 For inquiries, partnerships, or support, reach us at:
 
-Support: support@tradehive.io
-
-Business & Partnerships: partnerships@tradehive.io
-
-Legal & Compliance: legal@tradehive.io
+Email: Tradehive.43@gmail.com
 
 🌐 Website
 
 This repository also serves as the public entry point for TradeHive.
 
-Official Website: https://tradehive.io
+Official Website: https://tradehive.in
 
-(GitHub Pages may be used temporarily during early stages.)
 
 🔐 Privacy & Security
 
